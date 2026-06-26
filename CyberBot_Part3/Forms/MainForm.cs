@@ -479,7 +479,7 @@ namespace CyberBot_Part3.Forms
             AppendBot("NEW in v3: Task Manager 📋 | Cybersecurity Quiz 🎮 | Activity Log 📊 | Advanced NLP 🧠");
             AppendBot("Try: 'add a task to enable 2FA' | 'start quiz' | 'show activity log' | 'tell me about phishing'");
         }
-        //
+        
         // ══════════════════════════════════════════════════════════════════════
         //  INPUT HANDLING
         // ══════════════════════════════════════════════════════════════════════
