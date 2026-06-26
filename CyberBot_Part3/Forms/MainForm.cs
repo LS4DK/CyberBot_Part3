@@ -511,7 +511,7 @@ namespace CyberBot_Part3.Forms
             AppendBot(response);
             UpdateMemoryDisplay();
         }
-        //
+        
         // ══════════════════════════════════════════════════════════════════════
         //  DISPLAY HELPERS
         // ══════════════════════════════════════════════════════════════════════
