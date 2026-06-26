@@ -177,7 +177,7 @@ namespace CyberBot_Part3.Forms
 
             AddHRule(8, 218, 144, sidebar);
             AddSideLabel("MOOD DETECTED", 228, sidebar);
-            //
+            
             _sentimentLabel = new Label
             {
                 Text = "Neutral",
